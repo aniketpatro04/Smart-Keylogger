@@ -1,0 +1,9 @@
+We are building a smart keylooger with Python and Machine Learning.
+
+We need to store the Keystrokes in a txt file. More precisely, we have to append to a text file.
+
+After much data is collected we need to implement a Frequent Pattern Mining algorithm to extract the most used patterns and phrases and arrange them in descending order. 
+
+We can then use these patterns to create a dictionary and crack passwords. 
+
+We will be Using Listeners to Listen to Keystrokes. These listeners also need to be allocated and deallocated memory.
